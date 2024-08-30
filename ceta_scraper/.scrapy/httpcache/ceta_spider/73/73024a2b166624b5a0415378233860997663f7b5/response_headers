@@ -1,0 +1,14 @@
+Content-Length: 10150
+Date: Fri, 30 Aug 2024 21:47:07 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: www_ceta_org_za_aad=5e83b7b1306bd3a1ecfbaa8584029f5a; path=/; domain=www.ceta.org.za; secure; HttpOnly
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Referrer-Policy: strict-origin-when-cross-origin
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=utf-8
